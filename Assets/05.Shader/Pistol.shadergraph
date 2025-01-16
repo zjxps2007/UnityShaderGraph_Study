@@ -1213,8 +1213,8 @@
     "m_ObjectId": "2d1feb159e5c4cfb882efbff95ada1ad",
     "m_Title": "Ambient Occlusion",
     "m_Position": {
-        "x": -1166.0,
-        "y": 301.0000305175781
+        "x": -1165.999755859375,
+        "y": 300.99993896484377
     }
 }
 
@@ -1825,7 +1825,7 @@
     "m_ObjectId": "500b15d6b8d84304ad1ddb10853937b2",
     "m_Title": "NormalMap",
     "m_Position": {
-        "x": -1230.0,
+        "x": -1229.999755859375,
         "y": -53.0
     }
 }
@@ -1862,7 +1862,7 @@
     "m_Title": "Metallic(R) Smoothness(A)",
     "m_Position": {
         "x": -585.9999389648438,
-        "y": -101.99998474121094
+        "y": -102.00000762939453
     }
 }
 
@@ -2093,7 +2093,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "56bba3dc921f4ebb82ef845b81f5df78",
     "m_Id": 0,
-    "m_DisplayName": "Color",
+    "m_DisplayName": "EmissionColor",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -2261,8 +2261,8 @@
     "m_ObjectId": "66d6a909f47247b0b59c429401c53b63",
     "m_Title": "BaseMap",
     "m_Position": {
-        "x": -727.0,
-        "y": -531.0000610351563
+        "x": -726.9998779296875,
+        "y": -530.9999389648438
     }
 }
 
@@ -2613,7 +2613,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "7d45825c899246d9a942ca9667508a31",
     "m_Id": 0,
-    "m_DisplayName": "Texture2D",
+    "m_DisplayName": "BaseMap",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -3080,7 +3080,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "8f304b834e464501a581746e69c7d1fb",
     "m_Id": 0,
-    "m_DisplayName": "PistolEmission",
+    "m_DisplayName": "Emission",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -3617,8 +3617,8 @@
     "m_ObjectId": "b01a6e23171642d5a7fd84ccb26df2a9",
     "m_Title": "Emission",
     "m_Position": {
-        "x": -695.9999389648438,
-        "y": 558.9999389648438
+        "x": -695.9998779296875,
+        "y": 558.9998779296875
     }
 }
 
@@ -3705,8 +3705,8 @@
     "m_ObjectId": "ba729a0ec8064e39be1ec51827dbf135",
     "m_Title": "Ambient Occlusion Intensity",
     "m_Position": {
-        "x": -738.0,
-        "y": 302.00006103515627
+        "x": -737.9998779296875,
+        "y": 301.99993896484377
     }
 }
 
@@ -3898,7 +3898,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "c7470f37ccd84e6ea6622ce4c161e234",
     "m_Id": 0,
-    "m_DisplayName": "Color",
+    "m_DisplayName": "BaseColor",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -3947,7 +3947,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "ccb2e8f4509b45d087f968b076dbb770",
     "m_Id": 0,
-    "m_DisplayName": "Texture2D",
+    "m_DisplayName": "Metallic",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
