@@ -37,6 +37,38 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _Normal1:
+        m_Texture: {fileID: 2800000, guid: 5649421a51fb59e4bba3001774f6e732, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal2:
+        m_Texture: {fileID: 2800000, guid: 38cafbb990697b841b3cb21ed8879148, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal3:
+        m_Texture: {fileID: 2800000, guid: 34b1befd273e6f84e8ffc2171a2bc020, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal4:
+        m_Texture: {fileID: 2800000, guid: c03807b130442f047a4d2f84b3657ca3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Smoothness1:
+        m_Texture: {fileID: 2800000, guid: b861043a181a7424b8735333e9f008dd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Smoothness2:
+        m_Texture: {fileID: 2800000, guid: cb68d2175f49ec842ada8e6657f8a647, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Smoothness3:
+        m_Texture: {fileID: 2800000, guid: 7a7a8a48285cd4642888bbfd663ded7c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Smoothness4:
+        m_Texture: {fileID: 2800000, guid: c3b94d946be36154e8cbee4e31d02593, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Texture2D:
         m_Texture: {fileID: 2800000, guid: fde77735f15223c40931d2931ac46ec5, type: 3}
         m_Scale: {x: 1, y: 1}
