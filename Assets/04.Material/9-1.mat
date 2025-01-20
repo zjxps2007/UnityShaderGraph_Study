@@ -37,6 +37,38 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _AO1:
+        m_Texture: {fileID: 2800000, guid: baed9598efdac5b449495b1bd205be76, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AO2:
+        m_Texture: {fileID: 2800000, guid: 917528af3c9bc86408bdcf78ae9e42dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AO3:
+        m_Texture: {fileID: 2800000, guid: c9bcbd775e2b23b4ca0a801c9a6c703c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AO4:
+        m_Texture: {fileID: 2800000, guid: 35632fe18cd4f9842a97f00863e50923, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission4:
+        m_Texture: {fileID: 2800000, guid: d35c05dfbc73e7d4fbc26ac38d79a997, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Normal1:
         m_Texture: {fileID: 2800000, guid: 5649421a51fb59e4bba3001774f6e732, type: 3}
         m_Scale: {x: 1, y: 1}
